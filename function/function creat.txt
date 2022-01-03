@@ -1,0 +1,3 @@
+def hw(lan):
+if lan=='fa'
+    return 'false'

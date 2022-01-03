@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5976d7eb-ae39-4a4c-b231-702e28385b49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h39gMPWaEBNHqPgggJeSWFqORq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Data Structure" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Algorithm,C,C++,Python\python\Pycharm\File\Basic think py" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.searching">
+    <configuration name="ranndom number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic think py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ranndom number.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="searching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic think py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/searching.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="suffix and prefix (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic think py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/suffix and prefix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="suffix and prefix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic think py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\Algorithm,C,C++,Python\python\Pycharm\File\Basic think py\suffix and prefix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="word finding (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basic think py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/word finding.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.searching" />
+        <item itemvalue="Python.ranndom number" />
+        <item itemvalue="Python.suffix and prefix (1)" />
+        <item itemvalue="Python.suffix and prefix" />
+        <item itemvalue="Python.word finding (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5976d7eb-ae39-4a4c-b231-702e28385b49" name="Default Changelist" comment="" />
+      <created>1599229018255</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599229018255</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="840" height="554" key="DiffContextDialog" timestamp="1599229627600">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="92" y="92" width="840" height="554" key="DiffContextDialog/0.0.1024.738@0.0.1024.738" timestamp="1599229627600" />
+    <state x="424" y="128" key="FileChooserDialogImpl" timestamp="1599483070167">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="318" y="128" key="FileChooserDialogImpl/0.0.1024.738@0.0.1024.738" timestamp="1599231845852" />
+    <state x="424" y="128" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1599483070167" />
+    <state width="468" height="632" key="GridCell.Tab.0.bottom" timestamp="1599403668247">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="379" height="632" key="GridCell.Tab.0.bottom/0.0.1024.738@0.0.1024.738" timestamp="1599299177619" />
+    <state width="468" height="632" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1599403668247" />
+    <state width="468" height="632" key="GridCell.Tab.0.center" timestamp="1599403668247">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="379" height="632" key="GridCell.Tab.0.center/0.0.1024.738@0.0.1024.738" timestamp="1599299177619" />
+    <state width="468" height="632" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1599403668247" />
+    <state width="468" height="632" key="GridCell.Tab.0.left" timestamp="1599403668247">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="379" height="632" key="GridCell.Tab.0.left/0.0.1024.738@0.0.1024.738" timestamp="1599299177619" />
+    <state width="468" height="632" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1599403668247" />
+    <state width="468" height="632" key="GridCell.Tab.0.right" timestamp="1599403668247">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="379" height="632" key="GridCell.Tab.0.right/0.0.1024.738@0.0.1024.738" timestamp="1599299177619" />
+    <state width="468" height="632" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1599403668247" />
+    <state x="15" y="15" key="SettingsEditor" timestamp="1599297655367">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="15" y="15" key="SettingsEditor/0.0.1024.738@0.0.1024.738" timestamp="1599297655367" />
+    <state x="219" y="198" key="com.intellij.ide.util.TipDialog" timestamp="1599297497372">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="219" y="198" key="com.intellij.ide.util.TipDialog/0.0.1024.738@0.0.1024.738" timestamp="1599297497372" />
+    <state x="205" y="227" width="666" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1599229369900">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="205" y="227" width="666" height="283" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1024.738@0.0.1024.738" timestamp="1599229369900" />
+    <state x="175" y="59" key="search.everywhere.popup" timestamp="1599278606924">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="175" y="59" key="search.everywhere.popup/0.0.1024.738@0.0.1024.738" timestamp="1599278606924" />
+    <state x="234" y="288" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599229393887">
+      <screen x="0" y="0" width="1024" height="738" />
+    </state>
+    <state x="234" y="288" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1024.738@0.0.1024.738" timestamp="1599229393887" />
+  </component>
+</project>
